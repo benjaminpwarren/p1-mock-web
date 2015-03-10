@@ -1,0 +1,44 @@
+/* Enter your custom CSS here */
+
+body {
+  font: 300 16px/32px Verdana, sans-serif;
+  color: #666;
+}
+
+/**** Heading ****/
+
+h1 {
+  font-size: 48px;
+  margin-top: 45px;
+}
+
+/**** Sidebar ****/
+
+.mug-shot {
+  margin-top: 20px;
+}
+
+.main-features-box {
+  margin-top: 30px;
+  padding: 10px 0 0 30px;
+  border: 1px solid #ccc;
+}
+
+/* As the ul element here is a descendant selector and the guide only explicitly mentions ancestors,
+   this selector should still be okay. Adding an additional class just for the ul is unnecessary as
+   it neither adds clarity or simplifies, in this case. */
+.main-features-box ul {
+  margin: 30px 0 40px 0;
+}
+
+/**** Content ****/
+
+.content  {
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f07c17;
+}

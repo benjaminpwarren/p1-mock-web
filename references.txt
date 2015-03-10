@@ -1,0 +1,7 @@
+Udacity style guides https://udacity.github.io/frontend-nanodegree-styleguide/index.html
+Mozilla's CSS specs for several different properties http://developer.mozilla.org/en-US/docs/Web/CSS
+Piazza discussions http://piazza.com/class/i4nat74xz7tsx
+Bootstrap http://getbootstrap.com/examples/grid/
+"Hint to achieving Udaciousness"
+W3C HTML and CSS validation services
+StackOverflow http://stackoverflow.com/questions/356759/a-mnemonic-for-the-order-of-css-margin-and-padding-shorthand-properties
